@@ -1,6 +1,6 @@
 Based on my experience, I have created a comprehensive roadmap to master Machine Learning and Deep Learning, covering all essential mathematical aspects. It includes video lectures, reading materials, and hands-on tutorials. If you have no prior knowledge of machine learning, deep learning, or the underlying mathematics, this roadmap is perfect for you. Take your time to complete it, and by the end, you will be well-versed in these fields and ready to ace any machine learning interview. All you need is a basic understanding of Python programming.
 
-### Roadmap:
+### Machine Learning and Deep Learning Roadmap:
 
 1. **Machine Learning Specialization <a href="https://www.deeplearning.ai/courses/machine-learning-specialization/">[Link]</a> :** https://www.deeplearning.ai/courses/machine-learning-specialization/
 
@@ -45,5 +45,15 @@ If you haven't studied mathematics in your 11th and 12th grades, you may now be 
 3. _(Optional)_ **Mathematics for Machine Learning <a href="https://mml-book.github.io/">[Website]</a> <a href="https://mml-book.github.io/book/mml-book.pdf">[Ebook]</a> :** https://mml-book.github.io/
 
    This book provides great coverage of all the basic mathematical concepts for machine learning
+
+Now that you understand the mathematics and various Machine Learning algorithms, let's revisit those algorithms from a mathematical perspective.
+
+<hr>
+
+1. **The Elements of Statistical Learning <a href="https://hastie.su.domains/Papers/ESLII.pdf">[Ebook]</a> :** https://hastie.su.domains/Papers/ESLII.pdf
+
+   `The Elements of Statistical Learning`, often referred to as the "`Bible of Machine Learning`," delves into the mathematical aspects of various machine learning algorithms, providing a comprehensive understanding of their underlying principles.
+
+Now that you have a deep understanding of Machine Learning and its mathematical concepts, along with a basic intuition of Deep Learning, it's time to dive deeper into Deep Learning.
 
 <hr>
