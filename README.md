@@ -73,3 +73,7 @@ Now that you have a deep understanding of Machine Learning and its mathematical 
 #### **Now, you have mastered the field of Machine Learning and Deep Learning with both mathematical and practical experience. You can now explore various fields of Deep Learning, such as Computer Vision, Natural Language Processing (NLP), and Generative Models. With the knowledge you've gained from following this roadmap, you are also equipped to teach Machine Learning and Deep Learning to others.**
 
 <hr>
+
+#### **Contact me:**
+
+If you have any questions or need help with any of the resources mentioned above, feel free to reach out to me on <a href="mailto:dev.shubham.io@outlook.com">[Email]</a> / <a href="https://www.linkedin.com/in/shubham-choudhury/">[LinkedIn]</a>. I'm always happy to help!
