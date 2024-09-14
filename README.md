@@ -21,3 +21,9 @@ Now you understand what Machine Learning and Deep Learning are, how they work, a
 3. **Multivariable Calculus <a href="https://www.khanacademy.org/math/multivariable-calculus">[Link]</a> :** https://www.khanacademy.org/math/multivariable-calculus
 
    In machine learning, you need calculus to understand how to optimize a model’s parameters, particularly using gradient-based optimization algorithms like gradient descent. This is crucial for training models such as neural networks.
+
+4. **Statistics and Probability <a href="https://www.khanacademy.org/math/statistics-probability">[Link]</a> :** https://www.khanacademy.org/math/statistics-probability
+
+   Machine learning models often deal with uncertainty and predictions. Concepts like probability distributions, Bayes' theorem, and conditional probability are fundamental in algorithms like Naive Bayes, Bayesian Networks, and in evaluating model uncertainty.
+
+   Statistics is key in understanding and interpreting data, performing hypothesis testing, and making inferences about a population from sample data. Concepts like p-values, confidence intervals, and statistical significance play a big role in model evaluation.
