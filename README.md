@@ -57,3 +57,19 @@ Now that you understand the mathematics and various Machine Learning algorithms,
 Now that you have a deep understanding of Machine Learning and its mathematical concepts, along with a basic intuition of Deep Learning, it's time to dive deeper into Deep Learning.
 
 <hr>
+
+1. **Deep Learning Specialization <a href="https://www.deeplearning.ai/courses/deep-learning-specialization/">[Link]</a> :** https://www.deeplearning.ai/courses/deep-learning-specialization/
+
+   Develop a strong intuition for Deep Learning, gaining a deeper understanding of its principles and how it works under the hood.
+
+2. **Deep Learning - An MIT Press Book <a href="https://www.deeplearningbook.org/">[Website]</a> <a href="http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf">[Ebook]</a> :** https://www.deeplearningbook.org/
+
+   Dive deeper into Deep Learning and explore its mathematical aspects. Recap the essential mathematical concepts, such as Linear Algebra, Calculus, Probability, and Optimization, that are crucial for understanding Deep Learning.
+
+3. **MIT 6.S191 - Introduction to Deep Learning <a href="http://introtodeeplearning.com/">[Website]</a> <a href="https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&si=dvvsxzcc9zmixNYD">[Lecture]</a> :** http://introtodeeplearning.com/
+
+   Gain hands-on experience in Deep Learning by applying its concepts to real-world projects and building deep learning models.
+
+#### **Now, you have mastered the field of Machine Learning and Deep Learning with both mathematical and practical experience. You can now explore various fields of Deep Learning, such as Computer Vision, Natural Language Processing (NLP), and Generative Models. With the knowledge you've gained from following this roadmap, you are also equipped to teach Machine Learning and Deep Learning to others.**
+
+<hr>
