@@ -2,6 +2,6 @@ Based on my experience, I have created a comprehensive roadmap to master Machine
 
 ### Roadmap:
 
-1. **Machine Learning Specialization :** https://www.deeplearning.ai/courses/machine-learning-specialization/
+1. **Machine Learning Specialization :** https://www.deeplearning.ai/courses/machine-learning-specialization/ <a href="https://www.deeplearning.ai/courses/machine-learning-specialization/">[Link]</a>
 
 - The **Machine Learning Specialization** by `DeepLearning.ai` teaches you foundational algorithms and gives you hands-on experience in the world of machine learning. No prior mathematical knowledge is required, as the course guides you through the necessary concepts along the way.
